@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MariskaZeta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Madison Kendall
+- 👀 I’m interested in - Full Stack Software Developing
+- 🌱 I’m currently learning - Java
+- 💞️ I’m looking to collaborate on - MERN projects
+- 📫 How to reach me - www.linkedin.com/in/madisonzetakendall
 
 <!---
 MariskaZeta/MariskaZeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
